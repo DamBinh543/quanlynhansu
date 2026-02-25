@@ -4,9 +4,9 @@ Mở dự án đã clone, mở terminal chạy: composer install
 
 Chạy: php artisan key:generate
 
-Tạo database quanlynhansu trên MySQl
+Tạo database trên MySQl
 
-Sửa cấu hình env, thay tên database thành quanlynhansu
+Sửa cấu hình env, đổi tên thành database vừa tạo
 
 Mở Terminal chạy lệnh php artisan migrate --seed
 
